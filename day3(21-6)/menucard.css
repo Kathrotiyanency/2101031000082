@@ -1,0 +1,43 @@
+h4{
+    font-size: 50px;
+    margin-bottom: 0px;
+    box-shadow: inset;
+    text-align: center;
+    font-weight: bolder;
+}
+h3{
+    text-align: center;
+    color: rgb(231, 12, 12);
+    margin-bottom: 30px;
+    padding:0px;
+    margin-top: 0px;
+    /*box-sizing: content-box;
+    font-weight: normal;*/
+    width: 200 px;
+    height: 50px;
+
+    
+}
+
+body{
+    font-size: 50px;
+    background-color: rgb(248, 248, 241);
+}
+div{
+    background-color: rgb(165, 79, 42);
+    height: 200;
+    width: 50;
+    flex-direction: row;
+
+}
+img{
+    float:right;
+    margin-top: 0.5px;
+}
+/*body{
+
+     image: url("burger.jpg");
+     background-size: contain;
+    
+
+}/*
