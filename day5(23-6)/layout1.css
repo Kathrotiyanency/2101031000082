@@ -1,0 +1,56 @@
+*{
+   font-size: 22px;
+    font-weight: bold;
+} 
+#r1{
+    background-color: gray;
+    height: 50px;
+    width: 98%;
+    padding-top: 20px;
+    padding-left: 2%;
+    margin-bottom: 10px;
+
+    }
+#r2,#r5{
+    background-color: grey;
+    height: 33px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-top: 7px;
+
+}
+#r3{
+    background-color: gray;
+    height: 93px;
+    padding-top: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+    width: 100%;
+}
+#r4{
+    height: 600px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#r4c1{
+    width: 28%;
+    margin-right: 2%;
+}
+#r4c2{
+    width: 70%;
+
+
+    
+}
+#r4 div{
+    height:320px;
+    padding-top: 280px;
+    float: left;
+    text-align: center;
+    background-color: grey
+}
+
+
